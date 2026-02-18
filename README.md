@@ -1,6 +1,6 @@
 # Hi, I'm fatmind 👋
 
-📍 **Hangzhou** | 🤖 **Polyagentmorous builder** | 🚀 ** 3 years of entrepreneurial experience **
+📍 **Hangzhou** | 🤖 **Polyagentmorous builder** | 🚀 **3 years of entrepreneurial experience**
 
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
