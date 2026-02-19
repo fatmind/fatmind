@@ -45,7 +45,7 @@
 ## Vibe-coding Projects
 
 - 🍭 **[AI出家_径山三日禅](https://github.com/fatmind/adventists/blob/main/vc_AI%E5%87%BA%E5%AE%B6_%E5%BE%84%E5%B1%B1%E4%B8%89%E6%97%A5%E7%A6%85.md)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。[代码地址](https://codeup.aliyun.com/6419c68008203590adcc73a1/second_cloister/tree/main)
-- 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
+- 👻 **[香蕉皮🍌](https://github.com/fatmind/adventists/blob/main/vc_%E9%A6%99%E8%95%89%E7%9A%AE.md)** - **1 个人开发 1 个产品** 核心用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。[代码地址](https://codeup.aliyun.com/6419c68008203590adcc73a1/banana_peel_server)
 
 
 ### Co-creating with my daughter
