@@ -19,7 +19,7 @@
 ## Thoughts & Insights
 
 - 🗣️ **[大厂春节 2C Agent OnePlan](https://github.com/fatmind/adventists/blob/main/oneplan_agent_key_takeaways.md)** - 2C 通用 Agent，当前 “走一步看一步” (ReAct) 模式正面临响应慢、成本高和长链路易出错的问题，分享了如何通过 OnePlan 与 上下文管理，让 30B 规模的模型在复杂任务中展现出超越 SOTA模型
-- 🎙️ **[如何把 AI 跑满](https://github.com/fatmind/adventists/blob/main/%E5%A6%82%E4%BD%95%E6%8A%8A%20AI%20%E8%B7%91%E6%BB%A1.md)** - "没有能力消耗 token，未来就是废物。"这话刺耳，但说的是事实：把 AI 跑满，是个关键能力。[我的 AI 反应堆：建设基础，把 AI 跑满](https://github.com/fatmind/my_ai_reactor)
+- 🎙️ **[如何把 AI 跑满](https://github.com/fatmind/adventists/blob/main/%E5%A6%82%E4%BD%95%E6%8A%8A%20AI%20%E8%B7%91%E6%BB%A1.md)** - "没有能力消耗 token，未来就是废物。"这话刺耳，但说的是事实：把 AI 跑满，是个关键能力。[我的 AI 反应堆](https://github.com/fatmind/my_ai_reactor)，建设基础，把 AI 跑满
 - 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
 - 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
 - 📍 **[goplaces](https://github.com/steipete/goplaces)** - Google Places API (New) client + CLI
