@@ -46,13 +46,13 @@
 
 - 🍭 **[AI出家_径山三日禅](https://github.com/fatmind/adventists/blob/main/vc_AI%E5%87%BA%E5%AE%B6_%E5%BE%84%E5%B1%B1%E4%B8%89%E6%97%A5%E7%A6%85.md)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。[代码地址](https://codeup.aliyun.com/6419c68008203590adcc73a1/second_cloister/tree/main)
 - 👻 **[香蕉皮🍌](https://github.com/fatmind/adventists/blob/main/vc_%E9%A6%99%E8%95%89%E7%9A%AE.md)** - *（1 个人开发 1 个产品）* 核心用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。[代码地址](https://codeup.aliyun.com/6419c68008203590adcc73a1/banana_peel_server)
+- 🍵 **[KET TalkPong](https://github.com/fatmind/adventists/blob/main/vc_KET_TalkPong.md)** - 与孩子像打乒乓球一样你来我往地对话，包含自由对话、图片复述、成就勋章三个环节，帮助 10 岁小学生在轻松有趣的场景中高频练习英语口语。"对话"解决敢说，"图片复述"解决说得有逻辑、有内容。[代码地址](https://github.com/fatmind/talkpong)
 
 
 ### Co-creating with my daughter
 - 🧩 **[超级恐龙](https://github.com/fatmind/super_dino)** - 创客班同学在玩一个"跳跳"小游戏，她也想玩，融合马里奥、数学题，让它更加有趣。[在线体验](https://dino.mergerot.net/)
 - 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
 - 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
-- 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
 - 🌡️ **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
 
 
