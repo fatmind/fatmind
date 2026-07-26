@@ -22,22 +22,20 @@
 - 🦞 **[我想自动训一个好龙虾](https://github.com/fatmind/AIAdventists/blob/main/openclaw%20%E6%88%91%E6%83%B3%E8%AE%AD%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E9%BE%99%E8%99%BE%F0%9F%A6%9E.md)** - 养龙虾，比养娃成本还高，能不能更高效、甚至自学习呢？
 - 🗣️ **[大厂春节 2C Agent](https://github.com/fatmind/AIAdventists/blob/main/oneplan_agent_key_takeaways.md)** - 2C 通用 Agent，当前 “走一步看一步” (ReAct) 模式正面临响应慢、成本高和长链路易出错的问题，分享了如何通过 OnePlan 与 上下文管理，让 30B 模型在复杂任务中跑起来
 
-
 ## Current Projects
 
-- 🦞 **[wc3-ranger](https://github.com/fatmind/wc3-ranger)** - 给 Claude Code 装上完整联网能力 + Aria 语义树增强的 Skill
+- 🎚️ **[team3：人与Agent协作](https://github.com/fatmind/team3_coding)** - May your tokens never run out—keep agent limits in view.
 - 🚇 **[webclaw3](https://github.com/fatmind/webclaw3)** - Turn your Mac mini into a traveling AI lobster — code from your iPad, anywhere.
-- 🎚️ **[team3_coding](https://github.com/fatmind/team3_coding)** - May your tokens never run out—keep agent limits in view.
-- 🚀 **hero-accessories** - [进行中]出海电商选品：抓取 reddit/youtube 反馈问题 -> 配件需求分析 -> amazon/temu 竞对 -> 1688 找工厂 -> 评估盈利
-- 🍵 **[我的 AI 反应堆](https://github.com/fatmind/my_ai_reactor)** - 建设基础，把 AI 跑满
+- 🦞 **[wc3-ranger](https://github.com/fatmind/wc3-ranger)** - 给 Claude Code 装上完整联网能力 + Aria 语义树增强的 Skill
 - 🍭 **[kaeru_claw](https://github.com/fatmind/kaeru_claw)** - 把你的 Mac mini 变成 AI 旅行龙虾 — iPad 走到哪，写到哪
+- 🚀 **hero-accessories** - [进行中]出海电商选品：抓取 reddit/youtube 反馈问题 -> 配件需求分析 -> amazon/temu 竞对 -> 1688 找工厂 -> 评估盈利
 
-## Vibe-coding Projects
+## Team3 Projects
 
-- 🧩 **[世界杯 lottery-messi](https://github.com/fatmind/lottery-messi)** - 一个会自我成长的 AI 球评：每天对当晚开始的世界杯比赛做胜负预测，赛后复盘，并自动重写自己的预测策略
-- 🍭 **[AI出家_径山三日禅](https://github.com/fatmind/AIAdventists/blob/main/vc_AI%E5%87%BA%E5%AE%B6_%E5%BE%84%E5%B1%B1%E4%B8%89%E6%97%A5%E7%A6%85.md)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。[代码地址](https://github.com/fatmind/second_zen)
-- 👻 **[香蕉皮🍌](https://github.com/fatmind/AIAdventists/blob/main/vc_%E9%A6%99%E8%95%89%E7%9A%AE.md)** - *（1 个人开发 1 个产品）* 核心用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。[代码地址](https://github.com/fatmind/banana_peel_api)
-- 🍵 **[KET TalkPong](https://github.com/fatmind/AIAdventists/blob/main/vc_KET_TalkPong.md)** - 与孩子像打乒乓球一样你来我往地对话，包含自由对话、图片复述、成就勋章三个环节，帮助 10 岁小学生在轻松有趣下备考 KET。"对话"解决敢说，"图片复述"解决说得有逻辑、有内容。[体验地址](https://talkpong.fatmind.me/)
+- 🧩 **[世界杯 lottery](https://github.com/fatmind/lottery-messi)** - 一个会自我成长的 AI 球评：每天对当晚开始的世界杯比赛做胜负预测，赛后复盘，并自动重写自己的预测策略
+- 🍭 **[AI出家_径山三日禅](https://github.com/fatmind/second_zen)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。
+- 👻 **[香蕉皮 🍌](https://github.com/fatmind/banana_peel_api)** - 用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。
+- 🍵 **[KET TalkPong](https://github.com/fatmind/KetPong)** - 与孩子像打乒乓球一样你来我往地对话，包含自由对话、图片复述、成就勋章三个环节，帮助 10 岁小学生在轻松有趣下备考 KET。"对话"解决敢说，"图片复述"解决说得有逻辑、有内容。
 
 
 ### Co-creating with my daughter
@@ -53,8 +51,7 @@
 
 ## Connect
 
-[![即刻](https://web.okjike.com/u/04dad17b-c524-4b81-bdb0-1db6b25a01c0)
-[![Twitter](https://x.com/jueyuan]
+[即刻](https://web.okjike.com/u/04dad17b-c524-4b81-bdb0-1db6b25a01c0)
 
 ---
 
@@ -62,13 +59,5 @@
 
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
 
-<details>
-<summary>Random Facts</summary>
-
 - Treat AI agents as "slot machines for programmers"
 - Run 3-6 Claude instances concurrently
-- Powered by Vienna coffee culture
-- Gym enthusiast (when not coding)
-- Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
-
-</details>
