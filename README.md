@@ -48,11 +48,6 @@
 - **Writing about AI thoughts** - Sharing my learnings on [fatmind](https://github.com/fatmind/AIAdventists)
 - **Rapid prototyping** - Full apps in days, not months
 
-
-## Connect
-
-[即刻](https://web.okjike.com/u/04dad17b-c524-4b81-bdb0-1db6b25a01c0)
-
 ---
 
 ### Philosophy
