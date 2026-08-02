@@ -24,17 +24,17 @@
 
 ## Current Projects
 
-- 🎚️ **[team3：人与Agent协作](https://github.com/fatmind/team3_coding)** - May your tokens never run out—keep agent limits in view.
-- 🚇 **[webclaw3](https://github.com/fatmind/webclaw3)** - Turn your Mac mini into a traveling AI lobster — code from your iPad, anywhere.
-- 🦞 **[wc3-ranger](https://github.com/fatmind/wc3-ranger)** - 给 Claude Code 装上完整联网能力 + Aria 语义树增强的 Skill
+- 🎚️ **[team3 人与Agent协作](https://github.com/fatmind/team3_coding)** - 人类定方向和思路，和多个 Agent 一起协作，按 app → module → feature → uat 流水线推进，找到双方高效、快乐的协作方式
+- 🚇 **[webclaw3](https://github.com/fatmind/webclaw3)** - Teach your AI agent browser tasks once — run free forever
+- 🦞 **[wc3-chrome](https://github.com/fatmind/wc3-chrome)** - webclaw3 架构的 L0 层——浏览器插件，更稳定、更隐身，复用用户登录态
 - 🍭 **[kaeru_claw](https://github.com/fatmind/kaeru_claw)** - 把你的 Mac mini 变成 AI 旅行龙虾 — iPad 走到哪，写到哪
 - 🚀 **hero-accessories** - [进行中]出海电商选品：抓取 reddit/youtube 反馈问题 -> 配件需求分析 -> amazon/temu 竞对 -> 1688 找工厂 -> 评估盈利
 
 ## Team3 Projects
 
-- 🧩 **[世界杯 lottery](https://github.com/fatmind/lottery-messi)** - 一个会自我成长的 AI 球评：每天对当晚开始的世界杯比赛做胜负预测，赛后复盘，并自动重写自己的预测策略
-- 🍭 **[AI出家_径山三日禅](https://github.com/fatmind/second_zen)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。
-- 👻 **[香蕉皮 🍌](https://github.com/fatmind/banana_peel_api)** - 用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。
+- 🧩 **[梅西lottery](https://github.com/fatmind/lottery-messi)** - 一个会自我成长的 AI 球评：每天对当晚开始的世界杯比赛做胜负预测，赛后复盘，并自动重写自己的预测策略
+- 🍭 **[AI出家：径山三日禅](https://github.com/fatmind/second_zen)** - 参加 SecondMe 黑客松比赛，让数字分身代替用户，去参加一场为期三天的径山寺禅修，严格按照禅寺的作息和戒律进行“修行”，获得一种“我没去但又去了”的奇妙代理体验。
+- 🍌 **[香蕉皮](https://github.com/fatmind/banana_peel_api)** - 用户是当下的年轻人，生活中常有一些令人心塞的“小确丧”，在这里，用户可以卸下防备，将那些倒霉事倾诉出来，并将其转化为幽默的段子，负面情绪也就随之消解了。
 - 🍵 **[KET TalkPong](https://github.com/fatmind/KetPong)** - 与孩子像打乒乓球一样你来我往地对话，包含自由对话、图片复述、成就勋章三个环节，帮助 10 岁小学生在轻松有趣下备考 KET。"对话"解决敢说，"图片复述"解决说得有逻辑、有内容。
 
 
