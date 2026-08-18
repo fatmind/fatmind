@@ -18,9 +18,9 @@
 
 ## Thoughts & Insights
 
-- 🎙️ **[你能不能把 AI 跑满](https://github.com/fatmind/AIAdventists/blob/main/%E5%A6%82%E4%BD%95%E6%8A%8A%20AI%20%E8%B7%91%E6%BB%A1.md)** - "没有能力消耗 token，未来就是废物。"这话刺耳，但说的是事实：把 AI 跑满，是个关键能力。你的 Token 消耗日均过亿了吗？
-- 🦞 **[我想自动训一个好龙虾](https://github.com/fatmind/AIAdventists/blob/main/openclaw%20%E6%88%91%E6%83%B3%E8%AE%AD%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E9%BE%99%E8%99%BE%F0%9F%A6%9E.md)** - 养龙虾，比养娃成本还高，能不能更高效、甚至自学习呢？
-- 🗣️ **[大厂春节 2C Agent](https://github.com/fatmind/AIAdventists/blob/main/oneplan_agent_key_takeaways.md)** - 2C 通用 Agent，当前 “走一步看一步” (ReAct) 模式正面临响应慢、成本高和长链路易出错的问题，分享了如何通过 OnePlan 与 上下文管理，让 30B 模型在复杂任务中跑起来
+- 🎙️ **[你能不能把 AI 跑满](https://github.com/fatmind/aiadventists/blob/main/%E5%A6%82%E4%BD%95%E6%8A%8A%20AI%20%E8%B7%91%E6%BB%A1.md)** - "没有能力消耗 token，未来就是废物。"这话刺耳，但说的是事实：把 AI 跑满，是个关键能力。你的 Token 消耗日均过亿了吗？
+- 🦞 **[我想自动训一个好龙虾](https://github.com/fatmind/aiadventists/blob/main/openclaw%20%E6%88%91%E6%83%B3%E8%AE%AD%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E9%BE%99%E8%99%BE%F0%9F%A6%9E.md)** - 养龙虾，比养娃成本还高，能不能更高效、甚至自学习呢？
+- 🗣️ **[大厂春节 2C Agent](https://github.com/fatmind/aiadventists/blob/main/oneplan_agent_key_takeaways.md)** - 2C 通用 Agent，当前 “走一步看一步” (ReAct) 模式正面临响应慢、成本高和长链路易出错的问题，分享了如何通过 OnePlan 与 上下文管理，让 30B 模型在复杂任务中跑起来
 
 ## Current Projects
 
@@ -45,7 +45,7 @@
 ## What I'm Doing
 
 - **Living in the future** - Learning and building LLM product to make agentic engineering faster
-- **Writing about AI thoughts** - Sharing my learnings on [fatmind](https://github.com/fatmind/AIAdventists)
+- **Writing about AI thoughts** - Sharing my learnings on [fatmind](https://github.com/fatmind/aiadventists)
 - **Rapid prototyping** - Full apps in days, not months
 
 ---
