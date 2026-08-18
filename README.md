@@ -28,6 +28,7 @@
 - 🚇 **[webclaw3](https://github.com/fatmind/webclaw3)** - Teach your AI agent browser tasks once — run free forever
 - 🦞 **[wc3-chrome](https://github.com/fatmind/wc3-chrome)** - webclaw3 架构的 L0 层——浏览器插件，更稳定、更隐身，复用用户登录态
 - 🍭 **[kaeru_claw](https://github.com/fatmind/kaeru_claw)** - 把你的 Mac mini 变成 AI 旅行龙虾 — iPad 走到哪，写到哪
+- 🧩 **[选品 RSI](https://github.com/fatmind/new-product-rsi)** - 把电商选品业务建成一张可模拟、可反向传播、可持续调整的业务计算图。这是一套小的 RSI 实验。
 - 🚀 **hero-accessories** - [进行中]出海电商选品：抓取 reddit/youtube 反馈问题 -> 配件需求分析 -> amazon/temu 竞对 -> 1688 找工厂 -> 评估盈利
 
 ## Team3 Projects
